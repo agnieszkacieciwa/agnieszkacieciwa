@@ -1,6 +1,5 @@
 <h1 align="center">🌟 Hey there! I'm Aga</h1>
 <h3 align="center">Bioinformatics grad diving into the thrilling abyss of AI and Big Data</h3>
-<img align="right" alt="Coding" width="400" scr="https://tenor.com/en-GB/view/cat-coding-gif-22257939">
 
 - 🤖 I'm not just about algorithms and data; I thrive on creativity and the joy of creation. Whether it's crafting elegant code or exploring the arts, I'm all about the multidisciplinary dance of ideas.
 
