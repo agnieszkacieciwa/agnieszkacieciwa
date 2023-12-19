@@ -6,7 +6,7 @@
 </br>
 </br>
 
-<img align="right" alt="Coding" width="310" src="https://scontent.fwaw7-1.fna.fbcdn.net/v/t39.30808-6/299879679_1942857582771215_2711944499801975748_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c42490&_nc_ohc=1-dVj3XBKngAX9PNLAE&_nc_ht=scontent.fwaw7-1.fna&oh=00_AfAfwGixbWpQEiXoIHnHptStTL3SUZnx_aUUgM8y_JJvLw&oe=6586358E">
+<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding" align="right" width="500">
 
 
 ## 💬 About Me
