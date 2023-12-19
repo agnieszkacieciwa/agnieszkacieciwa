@@ -1,23 +1,84 @@
 ![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
-<h1 align="center">🌟 Hey there! I'm Aga</h1>
-<h3 align="center">Bioinformatics grad diving into the thrilling abyss of AI and Big Data</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/9d/2b/c7/9d2bc7b7c5998a0f983f87d39cff7a99.jpg">
+<h1 align="center"> Hi there! I'm Aga </h1>
+<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>
+
+</br>
+</br>
+</br>
+
+<img align="right" alt="Coding" width="310" src="https://scontent.fwaw7-1.fna.fbcdn.net/v/t39.30808-6/299879679_1942857582771215_2711944499801975748_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=c42490&_nc_ohc=1-dVj3XBKngAX9PNLAE&_nc_ht=scontent.fwaw7-1.fna&oh=00_AfAfwGixbWpQEiXoIHnHptStTL3SUZnx_aUUgM8y_JJvLw&oe=6586358E">
 
 
-- ⚙️ **I'm not just about algorithms and data**; I thrive on creativity and the joy of creation. Whether it's crafting elegant code or exploring the arts, I'm all about the multidisciplinary dance of ideas
+## 💬 About Me
 
-- 🌌 **Passionate about creativity and the art of creation**. Whether it's crafting algorithms or a masterpiece, I find joy in the process
+- **I'm not just about algorithms and data**; I thrive on creativity and the joy of creation. Whether it's crafting elegant code or exploring the arts, I'm all about the multidisciplinary dance of ideas
 
-- 🤖 The world of tech moves at warp speed, and I'm strapping in for the ride. **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
+- **Passionate about creativity and the art of creation**. Whether it's crafting algorithms or a masterpiece, I find joy in the process
 
-- 💡 I’m currently learning **neural network architectures and methods to train AI**
+- The world of tech moves at warp speed, and I'm strapping in for the ride. **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
 
-- 📫 How to reach me **agnieszka.cieciwa@gmail.com**
+- I’m currently learning **neural network architectures and methods to train AI**
 
+</br>
+</br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agnieszkacieciwa&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="agnieszkacieciwa" /></p>
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
+
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/GitLab_CI-informational?style=flat&logo=gitlab&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6f42c1)
+
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Dask-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
+
+![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/DataSpell-informational?style=flat&logo=dataspell&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=6f42c1)
+
+</br>
+</br>
+
+## 📈 GitHub Statistics 
+
+<a href="https://github.com/agnieszkacieciwa/agnieszkacieciwa">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnieszkacieciwa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agnieszkacieciwa&theme=dark" alt="agnieszkacieciwa" /></p>
+
+</br>
+</br>
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:agnieszka.cieciwa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20-%231DA1F2.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+   </a>
+   </a> 
+  <a href="https://www.linkedin.com/in/aga-ci%C4%99ciwa-2730401b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20-%237289DA.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
