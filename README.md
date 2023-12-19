@@ -6,7 +6,7 @@
 </br>
 </br>
 
-<img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding" align="right" width="400">
+<img src="https://i.pinimg.com/originals/19/68/b5/1968b5e25ad7e35e22c6d76fbac31faa.gif" alt="Coding" align="right" width="280">
 
 
 ## 💬 About Me
