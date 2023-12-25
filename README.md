@@ -48,6 +48,7 @@
 ![](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Dask-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Unitest-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
 
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6f42c1)
