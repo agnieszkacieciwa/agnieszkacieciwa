@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6f42c1)
 
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=6f42c1)
