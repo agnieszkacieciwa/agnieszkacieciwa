@@ -15,7 +15,7 @@
 
 - **Passionate about creativity and the art of creation**. Whether it's crafting algorithms or a masterpiece, I find joy in the process
 
-- The world of tech moves at warp speed, and I'm strapping in for the ride. **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
+- **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
 
 - I’m currently learning **JavaScript**, **cloud solution APIs**, and **data flow**
 
