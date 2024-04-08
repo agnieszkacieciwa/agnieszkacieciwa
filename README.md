@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 <h1 align="center"> Hi there! I'm Aga </h1>
-<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI and Big Data</h3>
+<h3 align="center">Bioinformatics grad delving into the dynamic fields of AI, Big Data and Web Development</h3>
 
 </br>
 </br>
