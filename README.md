@@ -17,7 +17,9 @@
 
 - The world of tech moves at warp speed, and I'm strapping in for the ride. **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
 
-- I’m currently learning **neural network architectures and methods to train AI**
+- I’m currently learning **JavaScript**, **cloud solution APIs**, and **data flow**
+
+- I'm also diving into **neural network architectures and methods to train AI**
 
 </br>
 </br>
@@ -28,6 +30,7 @@
 ![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=sqlite&logoColor=white&color=6f42c1)
 
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=6f42c1)
@@ -38,6 +41,7 @@
 ![](https://img.shields.io/badge/GitLab_CI-informational?style=flat&logo=gitlab&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Flask-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
 
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=6f42c1)
@@ -50,6 +54,8 @@
 ![](https://img.shields.io/badge/Plotly-informational?style=flat&logo=plotly&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Dask-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Unitest-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Express.js-informational?style=flat&logo=dask&logoColor=white&color=6f42c1)
 
 ![](https://img.shields.io/badge/Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6f42c1)
