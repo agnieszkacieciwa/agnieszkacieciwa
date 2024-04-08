@@ -11,9 +11,7 @@
 
 ## 💬 About Me
 
-- **I'm not just about algorithms and data**; I thrive on creativity and the joy of creation. Whether it's crafting elegant code or exploring the arts, I'm all about the multidisciplinary dance of ideas
-
-- **Passionate about creativity and the art of creation**. Whether it's crafting algorithms or a masterpiece, I find joy in the process
+- **I'm not just about algorithms and data**; I thrive on creativity and the joy of creation. Whether it's crafting algorithms or a masterpiece, I find joy in the process
 
 - **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
 
