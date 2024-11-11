@@ -17,7 +17,7 @@
 
 - I’m currently learning **JavaScript**, **cloud solution APIs**, and **data flow**
 
-- I'm also diving into **neural network architectures and methods to train AI**
+- I'm also diving into **neural network architectures, methods to train AI and prediction models**
 
 </br>
 </br>
