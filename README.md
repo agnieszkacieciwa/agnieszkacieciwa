@@ -15,9 +15,9 @@
 
 - **Always eager to enhance my skills, I embrace challenges as opportunities to level up**
 
-- I’m currently learning **JavaScript**, **cloud solution APIs**, and **data flow**
+- I’m currently learning **JavaScript**,**Power BI**. Also, I am working on improving my data analysis and visualization skills.
 
-- I'm also diving into **neural network architectures, methods to train AI and prediction models**
+- I'm also diving into **neural network architectures** and **prediction models**
 
 </br>
 </br>
